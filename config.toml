@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Uc-Portal-Developer-Documentation"
 # Edit your config.toml configuration file
 # and add the Ananke theme.
-theme = "ananke"
+theme = "hugo-theme-learn"
